@@ -1,27 +1,33 @@
 class Solution {
-
-    public String common(String s1, String s2) {
-        int n = Math.min(s1.length(), s2.length());
-
-        StringBuilder sb = new StringBuilder();
-
-        for (int i = 0; i < n; i++) {
-            if (s1.charAt(i) == s2.charAt(i))
-                sb.append(s1.charAt(i));
-            else
-                break;
-        }
-
-        return sb.toString();
-    }
-
     public String longestCommonPrefix(String[] strs) {
-        String res = strs[0];
 
+        // First string ko reference maan rahe hain
+        String prefix = strs[0];
+
+        // Baaki sabhi strings ke saath compare karenge
         for (int i = 1; i < strs.length; i++) {
-            res = common(res, strs[i]);
+
+            int j = 0;
+
+            // Jab tak characters same hain, aage badho
+            while (j < prefix.length() &&
+                   j < strs[i].length() &&
+                   prefix.charAt(j) == strs[i].charAt(j)) {
+
+                j++;
+            }
+
+            // Jitne characters same mile,
+            // prefix ko utne characters tak chhota kar do
+            prefix = prefix.substring(0, j);
+
+            // Agar common prefix empty ho gaya
+            if (prefix.length() == 0) {
+                return "";
+            }
         }
 
-        return res;
+        // Final longest common prefix return karo
+        return prefix;
     }
 }
