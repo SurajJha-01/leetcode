@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/SurajJha-01/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajJha-01/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SurajJha-01/leetcode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/SurajJha-01/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SurajJha-01/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajJha-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SurajJha-01/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -61,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SurajJha-01/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajJha-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SurajJha-01/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String Matching
@@ -82,5 +84,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SurajJha-01/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SurajJha-01/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
