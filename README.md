@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SurajJha-01/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajJha-01/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SurajJha-01/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SurajJha-01/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/SurajJha-01/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajJha-01/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/SurajJha-01/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurajJha-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -47,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SurajJha-01/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajJha-01/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SurajJha-01/leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurajJha-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
