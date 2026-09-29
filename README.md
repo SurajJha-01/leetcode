@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/SurajJha-01/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SurajJha-01/leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurajJha-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SurajJha-01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0055-jump-game](https://github.com/SurajJha-01/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajJha-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SurajJha-01/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SurajJha-01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
 | ------- |
@@ -118,4 +120,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SurajJha-01/leetcode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SurajJha-01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SurajJha-01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
