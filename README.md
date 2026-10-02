@@ -25,6 +25,7 @@
 | [0012-integer-to-roman](https://github.com/SurajJha-01/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajJha-01/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SurajJha-01/leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SurajJha-01/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SurajJha-01/leetcode/tree/master/0125-valid-palindrome) |
@@ -78,6 +79,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/SurajJha-01/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SurajJha-01/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajJha-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,5 +131,10 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SurajJha-01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
