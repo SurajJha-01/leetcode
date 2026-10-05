@@ -32,6 +32,7 @@
 | [0125-valid-palindrome](https://github.com/SurajJha-01/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/SurajJha-01/leetcode/tree/master/0392-is-subsequence) |
+| [0856-score-of-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0856-score-of-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SurajJha-01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
@@ -146,4 +148,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
