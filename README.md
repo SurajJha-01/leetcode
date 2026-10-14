@@ -37,6 +37,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SurajJha-01/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/SurajJha-01/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SurajJha-01/leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/SurajJha-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0856-score-of-parentheses) |
 ## Trie
 |  |
@@ -53,6 +54,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SurajJha-01/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/SurajJha-01/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurajJha-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/SurajJha-01/leetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,4 +170,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SurajJha-01/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/SurajJha-01/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
