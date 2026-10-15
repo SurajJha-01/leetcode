@@ -35,6 +35,7 @@
 | [0125-valid-palindrome](https://github.com/SurajJha-01/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/SurajJha-01/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0387-first-unique-character-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/SurajJha-01/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SurajJha-01/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/SurajJha-01/leetcode/tree/master/0412-fizz-buzz) |
@@ -74,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/SurajJha-01/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SurajJha-01/leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurajJha-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SurajJha-01/leetcode/tree/master/0409-longest-palindrome) |
 ## Divide and Conquer
 |  |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SurajJha-01/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -171,4 +174,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/SurajJha-01/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/SurajJha-01/leetcode/tree/master/0412-fizz-buzz) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
