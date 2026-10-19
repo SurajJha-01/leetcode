@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/SurajJha-01/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/SurajJha-01/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SurajJha-01/leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/SurajJha-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurajJha-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SurajJha-01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
@@ -66,6 +67,7 @@
 | [0125-valid-palindrome](https://github.com/SurajJha-01/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SurajJha-01/leetcode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/SurajJha-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/SurajJha-01/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -74,6 +76,7 @@
 | [0012-integer-to-roman](https://github.com/SurajJha-01/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajJha-01/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SurajJha-01/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/SurajJha-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurajJha-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SurajJha-01/leetcode/tree/master/0409-longest-palindrome) |
@@ -86,6 +89,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/SurajJha-01/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/SurajJha-01/leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/SurajJha-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -178,4 +182,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SurajJha-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
