@@ -21,6 +21,7 @@
 | [0274-h-index](https://github.com/SurajJha-01/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajJha-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurajJha-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0821-shortest-distance-to-a-character](https://github.com/SurajJha-01/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SurajJha-01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
@@ -40,6 +41,7 @@
 | [0392-is-subsequence](https://github.com/SurajJha-01/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SurajJha-01/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/SurajJha-01/leetcode/tree/master/0412-fizz-buzz) |
+| [0821-shortest-distance-to-a-character](https://github.com/SurajJha-01/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0856-score-of-parentheses) |
 ## Trie
 |  |
@@ -69,6 +71,7 @@
 | [0189-rotate-array](https://github.com/SurajJha-01/leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajJha-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/SurajJha-01/leetcode/tree/master/0392-is-subsequence) |
+| [0821-shortest-distance-to-a-character](https://github.com/SurajJha-01/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Hash Table
 |  |
 | ------- |
