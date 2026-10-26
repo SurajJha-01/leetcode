@@ -57,6 +57,7 @@
 | [0013-roman-to-integer](https://github.com/SurajJha-01/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SurajJha-01/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SurajJha-01/leetcode/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/SurajJha-01/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/SurajJha-01/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurajJha-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -110,6 +111,7 @@
 | [0022-generate-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/SurajJha-01/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SurajJha-01/leetcode/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajJha-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SurajJha-01/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/SurajJha-01/leetcode/tree/master/0392-is-subsequence) |
@@ -192,4 +194,16 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/SurajJha-01/leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/SurajJha-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
