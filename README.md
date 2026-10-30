@@ -198,6 +198,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SurajJha-01/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -206,4 +207,17 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SurajJha-01/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SurajJha-01/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Depth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SurajJha-01/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SurajJha-01/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
