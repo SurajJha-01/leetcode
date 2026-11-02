@@ -55,6 +55,7 @@
 | [0009-palindrome-number](https://github.com/SurajJha-01/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SurajJha-01/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajJha-01/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/SurajJha-01/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/SurajJha-01/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SurajJha-01/leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -179,6 +180,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SurajJha-01/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SurajJha-01/leetcode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
