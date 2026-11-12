@@ -64,6 +64,7 @@
 | [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/SurajJha-01/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/SurajJha-01/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/SurajJha-01/leetcode/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurajJha-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/SurajJha-01/leetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SurajJha-01/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/SurajJha-01/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SurajJha-01/leetcode/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SurajJha-01/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SurajJha-01/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
