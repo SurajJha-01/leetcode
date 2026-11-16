@@ -37,6 +37,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SurajJha-01/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SurajJha-01/leetcode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/SurajJha-01/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/SurajJha-01/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SurajJha-01/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/SurajJha-01/leetcode/tree/master/0165-compare-version-numbers) |
@@ -118,6 +119,7 @@
 | [0022-generate-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/SurajJha-01/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SurajJha-01/leetcode/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/SurajJha-01/leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajJha-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SurajJha-01/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
