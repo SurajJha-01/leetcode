@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajJha-01/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SurajJha-01/leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/SurajJha-01/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/SurajJha-01/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SurajJha-01/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SurajJha-01/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SurajJha-01/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -97,6 +98,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SurajJha-01/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SurajJha-01/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/SurajJha-01/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/SurajJha-01/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/SurajJha-01/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SurajJha-01/leetcode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/SurajJha-01/leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/SurajJha-01/leetcode/tree/master/0096-unique-binary-search-trees) |
